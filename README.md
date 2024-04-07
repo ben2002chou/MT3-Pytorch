@@ -1,8 +1,10 @@
 ## MT3: Multi-Task Multitrack Music Transcription - Pytorch
 
-This is an unofficial implementation of MT3: Multi-Task Multitrack Music Transcription in pytorch.
+This is a personal-use fork from https://github.com/kunato/mt3-pytorch with some working updates to run code.
 
 ## Usage
+
+Converted pretrained weights can be found at original repo: https://github.com/kunato/mt3-pytorch/blob/master/pretrained/mt3.pth
 
 ```python
 from inference import InferenceHandler
