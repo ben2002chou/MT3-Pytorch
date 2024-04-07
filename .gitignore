@@ -1,0 +1,11 @@
+out/
+*.pyc
+main.py
+results/
+/pretrained/mt3.pth
+*.pth
+*.ckpt
+egs/
+output.mid
+wandb/
+mt3-pytorch-2/
