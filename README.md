@@ -11,8 +11,8 @@ handler = InferenceHandler('./pretrained')
 handler.inference('music.mp3')
 ```
 
-```python
-# training not done yet
+```bash
+python mt3_net.py
 ```
 
 ## Citations
